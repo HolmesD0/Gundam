@@ -31,5 +31,3 @@ export default function Gundam(props) {
         </Canvas>
     )
 }
-
-/* OrbitControls <OrbitControls /> */
